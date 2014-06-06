@@ -54,7 +54,7 @@
     "mean-connect-mongo": "0.4.3",
     "connect-mongo": "latest",
     "gridfs-stream": "^0.5.1",
-    "mean-logger": "0.0.1",
+    "mean-logger": "latest",
     "meanio": "0.4.x",
     "method-override": "^1.0.0",
     "mongoose": "^3.8.8",
@@ -78,7 +78,8 @@
     "grunt" : "latest",
     "winston": "latest",
     "sequelize-mysql": "latest",
-    "passport-google": "latest"
+    "passport-google": "latest",
+    "socket.io": "latest",
   },
   "devDependencies": {
     "assetmanager": "^0.1.2",
